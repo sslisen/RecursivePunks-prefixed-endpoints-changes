@@ -1,6 +1,7 @@
 Just use python to replace the endpoints from "/-/content/:" to "/content/", and upload the file as rar. 
 
 ![image](https://github.com/sslisen/RecursivePunks-prefixed-endpoints-changes/assets/59131974/576daa0a-4d38-4bc6-8269-24c3b4e4d98e)
+![image](https://github.com/sslisen/RecursivePunks-prefixed-endpoints-changes/assets/59131974/112c2065-2744-4d83-aed5-96503431b074)
 
 
 <h1>Recursive Punks</h2>
