@@ -1,3 +1,8 @@
+Just use python to replace the endpoints from "/-/content/:" to "/content/", and upload the file as rar. 
+
+![image](https://github.com/sslisen/RecursivePunks-prefixed-endpoints-changes/assets/59131974/576daa0a-4d38-4bc6-8269-24c3b4e4d98e)
+
+
 <h1>Recursive Punks</h2>
 Recursive Punks is one of the first 10k Recursive ordinals collections. 
 The original Punks are being recreated by combining different pre-inscribed traits. 
